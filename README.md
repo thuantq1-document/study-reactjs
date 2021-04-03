@@ -21,4 +21,5 @@
 - Redux
 - React context
 
-## Typescript
+## Lesson6 
+- Typescript
