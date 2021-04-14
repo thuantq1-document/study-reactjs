@@ -9,12 +9,12 @@
 - git basic
 
 ## Lesson2
-- npm
+- npm, package
 - https://github.com/adam-golab/react-developer-roadmap
 
 ## Lesson3
-- Es6
 - Clean code
+- Es6
 
 ## Lesson4
 - create react app
@@ -27,3 +27,4 @@
 
 ## Lesson6 
 - Typescript
+- Generic
