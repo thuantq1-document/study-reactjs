@@ -1,4 +1,7 @@
 # study-reactjs
+- styled-component
+- redux
+- tailwindcss
 
 ## Lesson1
 - Vscode
